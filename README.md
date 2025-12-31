@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Welcome%20to%20My%20Project&fontSize=45&fontAlignY=40&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Breast%20Cancer%20ML%20Project&fontSize=42&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning;Breast+Cancer+Analysis+Project;Python+%7C+SVM+%7C+Visualization;Turning+Data+Into+Insights"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=F75C7E&center=true&vCenter=true&width=650&lines=Machine+Learning+with+Python;Support+Vector+Machine+Classifier;Medical+Data+Analytics;Portfolio+Ready+Project"/>
 
 </div>
+
 
 
 <div align="center">
