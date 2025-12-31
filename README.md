@@ -137,3 +137,16 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 jupyter notebook
 ```
 Open SVM.ipynb and run all cells.
+
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+### ⭐ Thank You for Exploring My Project!
+
+</div>
