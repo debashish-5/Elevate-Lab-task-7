@@ -1,5 +1,14 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Welcome%20to%20My%20Project&fontSize=45&fontAlignY=40&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+%7C+Machine+Learning;Breast+Cancer+Analysis+Project;Python+%7C+SVM+%7C+Visualization;Turning+Data+Into+Insights"/>
+
+</div>
+
+
+<div align="center">
+
 <img src="https://img.freepik.com/free-vector/data-science-illustration-concept_114360-8646.jpg" width="80%" style="border-radius:20px"/>
 
 # 🧠 Breast Cancer Analysis & Machine Learning
